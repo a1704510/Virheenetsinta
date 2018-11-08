@@ -5,9 +5,12 @@ public class Luokka {
 	private Long id;
 	private String nimi;
 	
-	//git push -u origin master
-	//git push origin master
+	/* Ei konfiliktia - pushit */
+	//git push -u origin master -> Toimii
+	//git push origin master -> Toimii
 	//git push master -> Ei pystynyt tekemään pushia
 	//git push
+	
+	/* yritetään tehdä konfliktia - pushit */
 	
 }
