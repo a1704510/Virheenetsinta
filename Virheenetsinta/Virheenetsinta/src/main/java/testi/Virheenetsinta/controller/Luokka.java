@@ -16,7 +16,11 @@ public class Luokka {
 	// Tähän jotain konfliktin aihetta (git pull origin, git push -u origin master)
 	
 	//Olipa kerran turhaunut Noora, joka yritti kovasti saada gitin tekemään konflikteja
+	
+	//huhhahhei ja rommia pullo
 
 
 	//En välitä!
+	
+	//kantsis välittää :<<
 }
