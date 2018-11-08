@@ -13,4 +13,5 @@ public class Luokka {
 	
 	/* yritetään tehdä konfliktia - pushit */
 	
+	
 }
