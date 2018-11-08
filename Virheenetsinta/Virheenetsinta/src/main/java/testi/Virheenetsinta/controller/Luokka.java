@@ -12,14 +12,8 @@ public class Luokka {
 	//git push
 	
 	/* yritetään tehdä konfliktia - pushit */
-<<<<<<< HEAD
-	// Tähän jotain konfliktin aihetta (git pull origin, git push -u origin master)
-=======
-	
-	//Höhhöhhöö katotaan toimiiko tää
-	//git push -u origin master, let's see
-	
->>>>>>> 058539c87e4224702a47d2e4e19be408e80521ec
 
-	//En välitä!
+	// Tähän jotain konfliktin aihetta (git pull origin, git push -u origin master)
+	// Ratiritirallaa!!!
+	
 }
