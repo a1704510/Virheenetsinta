@@ -13,5 +13,8 @@ public class Luokka {
 	
 	/* yritetään tehdä konfliktia - pushit */
 	
+	//Höhhöhhöö katotaan toimiiko tää
+	//git push -u origin master, let's see
+	
 	
 }
