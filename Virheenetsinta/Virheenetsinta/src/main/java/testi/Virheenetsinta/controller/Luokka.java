@@ -6,4 +6,5 @@ public class Luokka {
 	private String nimi;
 	
 	//git push -u origin master
+	//git push origin master
 }
