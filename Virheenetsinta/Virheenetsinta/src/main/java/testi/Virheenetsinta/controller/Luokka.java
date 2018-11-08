@@ -12,6 +12,12 @@ public class Luokka {
 	//git push
 	
 	/* yritetään tehdä konfliktia - pushit */
+
+
+	// Tähän jotain konfliktin aihetta (git pull origin, git push -u origin master)
+	// Ratiritirallaa!!!
+	
+
 	
 	// Tähän jotain konfliktin aihetta (git pull origin, git push -u origin master)
 	
@@ -21,6 +27,8 @@ public class Luokka {
 
 
 	//En välitä!
+
 	
 	//kantsis välittää :<<
+
 }
