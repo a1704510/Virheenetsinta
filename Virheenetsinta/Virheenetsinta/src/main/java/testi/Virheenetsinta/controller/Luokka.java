@@ -7,6 +7,7 @@ public class Luokka {
 	
 	//git push -u origin master
 	//git push origin master
-	//git push master
+	//git push master -> Ei pystynyt tekemään pushia
+	//git push
 	
 }
